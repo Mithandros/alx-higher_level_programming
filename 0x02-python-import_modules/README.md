@@ -1,8 +1,8 @@
-0x02. Python - import & modules
+##0x02. Python - import & modules
 
-Learning Objectives
+#Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone
+At the end of this project, you are expected to be able to explain to anyone:
 
 Why Python programming is awesome
 
