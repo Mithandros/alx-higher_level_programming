@@ -1,10 +1,8 @@
-0x04. Python - More Data Structures: Set, Dictionary
+# 0x04. Python - More Data Structures: Set, Dictionary
 
-Resources
+## Resources
 
-Read or watch:
-
-
+### Read or watch:
 
 Data structures
 
@@ -12,7 +10,7 @@ Lambda, filter, reduce and map
 
 Learn to Program 12 Lambda Map Filter Reduce
 
-Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone
 
