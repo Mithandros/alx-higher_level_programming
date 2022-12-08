@@ -12,7 +12,7 @@ Learn to Program 12 Lambda Map Filter Reduce
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone
+At the end of this project, you are expected to be able to explain to anyone:
 
 Why Python programming is awesome
 
