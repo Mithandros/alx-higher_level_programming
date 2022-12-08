@@ -1,6 +1,6 @@
-0x03. Python - Data Structures: Lists, Tuples
+# 0x03. Python - Data Structures: Lists, Tuples
 
-Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone
 
